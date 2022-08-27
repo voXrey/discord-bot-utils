@@ -1,0 +1,186 @@
+{
+    "add_reactions": {
+        "en": "Add reactions",
+        "fr": "Ajouter des réactions"
+    },
+    "administrator": {
+        "en": "Administrator",
+        "fr": "Administrateur"
+    },
+    "attach_files": {
+        "en": "Attach files",
+        "fr": "Joindre des fichiers"
+    },
+    "ban_members": {
+        "en": "Ban members",
+        "fr": "bannir des membres"
+    },
+    "change_nickname": {
+        "en": "Change nickname",
+        "fr": "Changer son pseudo"
+    },
+    "connect": {
+        "en": "Connect to a voice channel",
+        "fr": "Se connecter à un salon vocal"
+    },
+    "create_instant_invite": {
+        "en": "Create instant invites",
+        "fr": "Créer des inviations"
+    },
+    "create_private_threads": {
+        "en": "Create private threads",
+        "fr": "Créer des threads privés"
+    },
+    "create_public_threads": {
+        "en": "Create public threads",
+        "fr": "Créer des threads publiques"
+    },
+    "deafen_members": {
+        "en": "Deafen members",
+        "fr": "Mettre en sourdine les membres"
+    },
+    "embed_links": {
+        "en": "Embed links",
+        "fr": "Intégrer les liens"
+    },
+    "external_emojis": {
+        "en": "Use external emojis",
+        "fr": "Utiliser des émojis externes"
+    },
+    "external_stickers": {
+        "en": "Use external stickers",
+        "fr": "Utiliser des stickers externes"
+    },
+    "kick_members": {
+        "en": "Kick members",
+        "fr": "Expulser des membres"
+    },
+    "manage_channels": {
+        "en": "Manage channels",
+        "fr": "Gérer les salons"
+    },
+    "manage_emojis": {
+        "en": "Manage emojis",
+        "fr": "Gérer les émojis"
+    },
+    "manage_emojis_and_stickers": {
+        "en": "Manage emojis and stickers",
+        "fr": "Gérer les émojis et les stickers"
+    },
+    "manage_events": {
+        "en": "Manage events",
+        "fr": "Gérer les événements"
+    },
+    "manage_guild": {
+        "en": "Manage server",
+        "fr": "Gérer le serveur"
+    },
+    "manage_messages": {
+        "en": "Manage messages",
+        "fr": "Gérer les messages"
+    },
+    "manage_nicknames": {
+        "en": "Manage nicknames",
+        "fr": "Gérer les pseudos"
+    },
+    "manage_permissions": {
+        "en": "Manage permissions",
+        "fr": "Gérer les permissions"
+    },
+    "manage_roles": {
+        "en": "Manage roles",
+        "fr": "Gérer les rôles"
+    },
+    "manage_threads": {
+        "en": "Manage threads",
+        "fr": "Gérer les threads"
+    },
+    "manage_webhooks": {
+        "en": "Manage webhooks",
+        "fr": "Gérer les webhooks"
+    },
+    "mention_everyone": {
+        "en": "Mention everyone",
+        "fr": "Mentionner tout le monde"
+    },
+    "moderate_members": {
+        "en": "Moderate members",
+        "fr": "Exclure des membres"
+    },
+    "move_members": {
+        "en": "Move members",
+        "fr": "Déplacer les membres"
+    },
+    "mute_members": {
+        "en": "MMute members",
+        "fr": "Rendre les membres muets"
+    },
+    "priority_speaker": {
+        "en": "Priority speaker",
+        "fr": "Voix prioritaire"
+    },
+    "read_message_history": {
+        "en": "Read message history",
+        "fr": "Voir l'historique des messages"
+    },
+    "read_messages": {
+        "en": "Read messages",
+        "fr": "Voir les messages"
+    },
+    "request_to_speak": {
+        "en": "Request to speak",
+        "fr": "Demander pour parler"
+    },
+    "send_messages": {
+        "en": "Send messages",
+        "fr": "Envoyez des messages"
+    },
+    "send_messages_in_threads": {
+        "en": "Send messages in threads",
+        "fr": "Envoyer des messages dans les threads"
+    },
+    "send_tts_messages": {
+        "en": "Send TTS messages",
+        "fr": "Envoyer des messages TTS"
+    },
+    "speak": {
+        "en": "Speak in a voice channel",
+        "fr": "Parler dans un salon vocal"
+    },
+    "stream": {
+        "en": "Stream",
+        "fr": "Vidéo"
+    },
+    "use_application_commands": {
+        "en": "Use slash commands",
+        "fr": "Utiliser les slash commandes"
+    },
+    "use_embedded_activities": {
+        "en": "Use activities",
+        "fr": "Utiliser les activités"
+    },
+    "use_external_emojis": {
+        "en": "Use external emojis",
+        "fr": "Utiliser des émojis externes"
+    },
+    "use_external_stickers": {
+        "en": "Use external stickers",
+        "fr": "Utiliser des stickers externes"
+    },
+    "use_voice_activation": {
+        "en": "Use voice activation",
+        "fr": "Utiliser la détection de la voix"
+    },
+    "view_audit_log": {
+        "en": "View audit log",
+        "fr": "Voir les logs du serveur"
+    },
+    "view_channel": {
+        "en": "View channel",
+        "fr": "Voir le salon"
+    },
+    "view_guild_insights": {
+        "en": "View server's insights",
+        "fr": "Voir les informations du serveur"
+    }
+}
